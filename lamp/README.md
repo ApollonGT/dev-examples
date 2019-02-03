@@ -14,5 +14,5 @@ This will set-up the environment with PHP, Apache, Mariadb (mySQL).
 There is an example content in the `DocumentRood` folder. Anything you put in that folder
 will be accessable from http://localhost .
 
-*Notes:* By running http://localhost/create\_tables.php a demo table will be created with an example entry.
+*Notes:* By running http://localhost/create_tables.php a demo table will be created with an example entry.
 
